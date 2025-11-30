@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="BuildingBlocks\Common\" />
+    <Folder Include="BuildingBlocks\Contracts\" />
+    <Folder Include="Services\Flight\" />
+    <Folder Include="Services\Booking\" />
+    <Folder Include="Services\Notification\" />
+    <Folder Include="Services\Payment\" />
+  </ItemGroup>
+
 </Project>

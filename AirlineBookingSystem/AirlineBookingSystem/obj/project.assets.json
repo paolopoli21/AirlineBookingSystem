@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Software\\AirlineBookingSystem\\AirlineBookingSystem\\AirlineBookingSystem.csproj",
+      "projectUniqueName": "C:\\Software\\AirlineBookingSystem\\AirlineBookingSystem\\AirlineBookingSystem\\AirlineBookingSystem.csproj",
       "projectName": "AirlineBookingSystem",
-      "projectPath": "C:\\Software\\AirlineBookingSystem\\AirlineBookingSystem\\AirlineBookingSystem.csproj",
+      "projectPath": "C:\\Software\\AirlineBookingSystem\\AirlineBookingSystem\\AirlineBookingSystem\\AirlineBookingSystem.csproj",
       "packagesPath": "C:\\Users\\paulu\\.nuget\\packages\\",
-      "outputPath": "C:\\Software\\AirlineBookingSystem\\AirlineBookingSystem\\obj\\",
+      "outputPath": "C:\\Software\\AirlineBookingSystem\\AirlineBookingSystem\\AirlineBookingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paulu\\AppData\\Roaming\\NuGet\\NuGet.Config",
